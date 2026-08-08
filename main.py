@@ -1082,10 +1082,77 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
 ⠀⠀⠀⠀
      
                                   ***@306**   `🌙`
-                  raid b__o__t  ﹒ s__o__cial  ﹒ to__xic__
-                         `🌟`     _join to [RAID](https://tenor.com/view/playboi-carti-discord-discord-raid-gif-21005635) any server __Without Admin perms__, free to use_ :moneybag: 
- 
-⠀⠀⠀⠀⠀⠀⠀                            **[JOIN](https://discord.gg/raJTHmBeae) TODAY, AND R__AI__D EVER__Y__ SERVER YOU WANT WITHOUT [ADMIN](https://tenor.com/view/mooning-show-butt-shake-butt-pants-down-gif-17077775)** @everyone
+                  c__o__m  ﹒ e__xto__rt  ﹒ sw__at__
+                         `🌟`     _join if your [COM](https://cdn.discordapp.com/attachments/1535132784287285359/1535451378049228871/lv_0_20260807205050-ezgif.com-speed.gif?ex=6a77d007&is=6a767e87&hm=f859525308e86fbc76d1c7816fe6dbc680e33a8f830bcc0aaaf2bae52101338c&
+⠀⠀⠀⠀⠀⠀# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# 306 OWNS YOU NIGGERS
+# JOIN 306 TO D__O__X SW__AT__ EX__TORT__ AND MORE!
+
+⠀                            **[JOIN](https://discord.gg/raJTHmBeae) TODAY, AND R__AI__D EVER__Y__ SERVER YOU WANT WITHOUT [ADMIN](https://tenor.com/view/mooning-show-butt-shake-butt-pants-down-gif-17077775)**
+@everyone
     '''
     try:
         view = FloodButton(raid_message, delay)
