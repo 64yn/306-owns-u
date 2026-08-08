@@ -810,7 +810,7 @@ async def hack(interaction: discord.Interaction, user: discord.User):
         content=f"{user.mention}",
         embed=embed,
         view=IPView()
-    )
+    ) 
 
 
 @hack.error
@@ -848,7 +848,7 @@ RAGEBAIT = ["""
 # JOIN 306 AND START RAIDING
 # JOIN 306 AND START RAIDING
 @everyone
-discord.gg/raJTHmBeae
+https://discord.gg/f7EMWBAxck
 https://tenor.com/view/mooning-show-butt-shake-butt-pants-down-gif-17077775
 https://media.discordapp.net/attachments/1215053612028526653/1219435249763750028/1218622476645564527_1650x1080.gif?ex=686c5f93&is=686b0e13&hm=1f0bd7f260f88162001a02772b415d14168a43cf7ee7cc94c2c9f03af54d9bed&
     """,
@@ -1140,18 +1140,10 @@ async def araid(interaction: discord.Interaction, delay: float = 0.01):
 # 306 OWNS YOU NIGGERS
 # 306 OWNS YOU NIGGERS
 # 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
-# 306 OWNS YOU NIGGERS
+
 # JOIN 306 TO D__O__X SW__AT__ EX__TORT__ AND MORE!
 
-⠀                            **[JOIN](https://discord.gg/raJTHmBeae) TODAY, AND R__AI__D EVER__Y__ SERVER YOU WANT WITHOUT [ADMIN](https://tenor.com/view/mooning-show-butt-shake-butt-pants-down-gif-17077775)**
+⠀                            **[JOIN](https://discord.gg/f7EMWBAxck) TODAY, AND R__AI__D EVER__Y__ SERVER YOU WANT [306](https://cdn.discordapp.com/attachments/1535132784287285359/1535451378049228871/lv_0_20260807205050-ezgif.com-speed.gif?ex=6a77d007&is=6a767e87&hm=f859525308e86fbc76d1c7816fe6dbc680e33a8f830bcc0aaaf2bae52101338c&)**
 @everyone
     '''
     try:
